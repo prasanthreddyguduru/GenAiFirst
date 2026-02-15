@@ -1,0 +1,2 @@
+# GenAiFirst
+GenAiPractise
